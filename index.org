@@ -2,15 +2,24 @@
 #+Author: Jeffery Zucker
 #+Date: Term 1, 2020/2021
 #+Description: Course outline and contents
-# #+SETUPFILE: ./org-html-themes/setup/theme-bigblow-local.setup
+#+SETUPFILE: ./org-html-themes/setup/theme-bigblow-local.setup
 
 * Announcements
+:PROPERTIES:
+:CUSTOM_ID: Announcements
+:END:
 
 - Sept 16 :: New course website created. Enjoy!
 
 * Lectures/tutorials
+:PROPERTIES:
+:CUSTOM_ID: Lectures/tutorials
+:END:
 
 ** Zoom meeting links and password
+:PROPERTIES:
+:CUSTOM_ID: Zoom-meeting-links-and-password
+:END:
 
 - [[https://mcmaster.zoom.us/j/92944332438][Tuesday lecture]]
 - [[https://mcmaster.zoom.us/j/91735616596][Wednesday lecture]]
@@ -19,16 +28,28 @@
 In each case, the password is ~4th3~.
 
 ** Lecture and tutorial recordings
+:PROPERTIES:
+:CUSTOM_ID: Lecture-and-tutorial-recordings
+:END:
 
 :TODO:
 
 * Notes
+:PROPERTIES:
+:CUSTOM_ID: Notes
+:END:
 
 ** Lecture notes
+:PROPERTIES:
+:CUSTOM_ID: Lecture-notes
+:END:
 
 1. [[./1.pdf][Introduction; Mathematical Preliminaries]]
 
 ** Tutorial notes
+:PROPERTIES:
+:CUSTOM_ID: Tutorial-notes
+:END:
 
 The tutorial notes contain a mix of
 - /proofs/ as example,
@@ -41,15 +62,27 @@ The exact coverage for each is listed with the tutorial.
   - Advice: Lemma 1.2(b)
 
 * Homeworks
+:PROPERTIES:
+:CUSTOM_ID: Homeworks
+:END:
 
 ** Current
+:PROPERTIES:
+:CUSTOM_ID: Current
+:END:
 
 @@html:<iframe src="h1.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** Previous
+:PROPERTIES:
+:CUSTOM_ID: Previous
+:END:
 
 :TODO:
 
 * Outline
+:PROPERTIES:
+:CUSTOM_ID: Outline
+:END:
 
 @@html:<iframe src="outline.html" style="width: 100%; height: 75vh"></iframe>@@
