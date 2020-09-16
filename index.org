@@ -11,29 +11,6 @@
 
 - Sept 16 :: New course website created. Enjoy!
 
-* Lectures/tutorials
-:PROPERTIES:
-:CUSTOM_ID: Lectures/tutorials
-:END:
-
-** Zoom meeting links and password
-:PROPERTIES:
-:CUSTOM_ID: Zoom-meeting-links-and-password
-:END:
-
-- [[https://mcmaster.zoom.us/j/92944332438][Tuesday lecture]]
-- [[https://mcmaster.zoom.us/j/91735616596][Wednesday lecture]]
-- [[https://mcmaster.zoom.us/j/97653010753][Friday lecture and tutorial]]
-
-In each case, the password is ~4th3~.
-
-** Lecture and tutorial recordings
-:PROPERTIES:
-:CUSTOM_ID: Lecture-and-tutorial-recordings
-:END:
-
-:TODO:
-
 * Notes
 :PROPERTIES:
 :CUSTOM_ID: Notes
@@ -60,11 +37,52 @@ The exact coverage for each is listed with the tutorial.
 - [[./t1-sept11.pdf][Tutorial 1, September 11th]]
   - Proofs: Lemma 1.2(a) and Corollary 1.3(b).
   - Advice: Lemma 1.2(b)
+* Lectures/tutorials
+:PROPERTIES:
+:CUSTOM_ID: Lectures/tutorials
+:END:
+
+** Zoom meeting links and password
+:PROPERTIES:
+:CUSTOM_ID: Zoom-meeting-links-and-password
+:END:
+
+- [[https://mcmaster.zoom.us/j/92944332438][Tuesday lecture]]
+- [[https://mcmaster.zoom.us/j/91735616596][Wednesday lecture]]
+- [[https://mcmaster.zoom.us/j/97653010753][Friday lecture and tutorial]]
+
+In each case, the password is ~4th3~.
+
+** Lecture and tutorial recordings
+:PROPERTIES:
+:CUSTOM_ID: Lecture-and-tutorial-recordings
+:END:
+
+The passcode for the recordings is ~cs-se-4th3~.
+
+*** Lectures
+:PROPERTIES:
+:CUSTOM_ID: Lectures
+:END:
+
+- [[https://mcmaster.zoom.us/rec/share/vWP8NL3cwNtlTLAGM96CQ6x7Sb6XEI84d_oVl1n5MO5pRO_S1SauEkb5rYx6PDbv.Ly2R2fc6ZUiy3dqU][Friday September 11th]]
+- Wednesday September 9th   -- Mark wasn't sent the link 😄; will fix
+- [[https://mcmaster.zoom.us/rec/share/gwx2YpVecIWEuDKvFccM-iheHk-e-oYlNbWAid9intQ13YtpFa3EBgJKCrvSVl3x.0VVhBIRDZt1oQgjm][Tuesday September 8th]]
+
+*** Tutorials
+:PROPERTIES:
+:CUSTOM_ID: Tutorials
+:END:
+
+- [[https://mcmaster.zoom.us/rec/share/hy2SVFDhYaqS8MfRgdUH1-TI04mSlmA_4zVadsZQ8QHLXb4h2cwHFiTZy7R694zt.jAwhYeCK--zrL8rI][Friday September 11th]]
 
 * Homeworks
 :PROPERTIES:
 :CUSTOM_ID: Homeworks
 :END:
+
+Homeworks are originally distributed via email to the class mailing list.
+They are then uploaded here by Mark.
 
 ** Current
 :PROPERTIES:
@@ -78,7 +96,8 @@ The exact coverage for each is listed with the tutorial.
 :CUSTOM_ID: Previous
 :END:
 
-:TODO:
+- [[./h1.html][Homework 1]]
+  - September 9th – September 15th
 
 * Outline
 :PROPERTIES:
