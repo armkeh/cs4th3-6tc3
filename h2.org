@@ -1,0 +1,87 @@
+#+Title: HWK 2
+#+Subtitle: Due Tuesday September 22nd, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 2
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Prove Cor. 1.5(c), the “⇒” direction.
+
+Parts (a) and (b), and the “⇐” direction of (c) were 
+proved in class.
+
+For *extra credit*, give a proof that is “algebraic”, 
+i.e., does not mention individual elements of the sets $A$ and $B$.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+  
+Prove that
+1. <<2.a>>
+   a right inverse need not be a left inverse, and vice versa,
+2. <<2.b>>
+   a left inverse need not be unique,
+3. <<2.c>>
+   a right inverse need not be unique,
+4. a two-sided inverse *is* unique.
+
+See p.1-7, Note.
+
+In [[2.a]], [[2.b]], [[2.c]] give examples.
+
+* (3)
+:PROPERTIES:
+:CUSTOM_ID: (3)
+:END:
+
+Prove part (2) ⇒ (3) of Theorem 1.9.
+
+The rest was done in class.
+ 
+* (4)
+:PROPERTIES:
+:CUSTOM_ID: (4)
+:END:
+
+Prove:  A subset of a countable set is countable (Note (e), p.1-10)
+
+* Hwk 3 preview
+:PROPERTIES:
+:CUSTOM_ID: Hwk-3-preview
+:END:
+
+Because the number of problems in this section of the Notes is 
+much greater than those in the next section, I am postponing the 
+two questions below (which really belong here) to NEXT WEEK'S HOMEWORK.
+I am nevertheless putting them here now, so that you can start thinking 
+about them sooner, if you wish.
+
+** Hwk 3 (1)
+:PROPERTIES:
+:CUSTOM_ID: Hwk-3-(1)
+:END:
+
+Prove
+1. If $A ≈ B$ and $A$ is finite then so is $B$.
+2. If $A ≈ B$ and $A$ is countably infinite then so is $B$.
+3. If $A ≈ B$ and $A$ is uncountable then so is $B$.
+
+See Note (f), p.1-10.
+
+** Hwk 3 (2)
+:PROPERTIES:
+:CUSTOM_ID: Hwk-3-(2)
+:END:
+
+Prove Theorem 1.13 (c): $\text{PRED}(ℕ)$ is uncountable.
+Use a diagonalization method.
+
+/Do not/ use the fact that
+$\text{PRED}(ℕ)$ is equinumerous with $𝒫(ℕ)$.

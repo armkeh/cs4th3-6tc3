@@ -19,7 +19,7 @@ Part (a) was proved in class.
 :CUSTOM_ID: (2)
 :END:
 
-Prove Cor. 1.3 (a), (c)
+Prove Cor. 1.3 (a), (c).
  
 Part (b) will be proved in class.
 
@@ -29,9 +29,9 @@ Part (b) will be proved in class.
 :END:
 
 1.  Mark may give some hints in the tutorial this Friday.
-2.  Please email your solution to Mark at  armstmp@mcmaster.ca
+2.  Please email your solution to Mark at [[mailto:armstmp@mcmaster.ca][armstmp@mcmaster.ca]].
 3.  Your solution should either be
    - hand-written and scanned as a PDF, or
    - typed in LaTeX or similar math markup tool and presented as a PDF.
    Please avoid submitting photographs of homework, as they can be
-   very hard to read.  Thanks.
+   very hard to read. Thanks.
