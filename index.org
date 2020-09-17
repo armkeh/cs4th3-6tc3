@@ -9,6 +9,8 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Sept 16 :: Homework 2 is uploaded, and available in the homeworks section
+  as the current homework.
 - Sept 16 :: New course website created. Enjoy!
 
 * Notes
@@ -65,8 +67,10 @@ The passcode for the recordings is ~cs-se-4th3~.
 :CUSTOM_ID: Lectures
 :END:
 
+- [[https://mcmaster.zoom.us/rec/share/LUrJYv0XIIKeh0MlUBbqhuvyidml1PyrM8B8uZvKkS7CKw5vl-UiAWPmn0lf0etN.GTo4L4pnvAOV-Bgs][Wednesday September 16th]]
+- Tuesday September 15th   // missing the link for the moment
 - [[https://mcmaster.zoom.us/rec/share/vWP8NL3cwNtlTLAGM96CQ6x7Sb6XEI84d_oVl1n5MO5pRO_S1SauEkb5rYx6PDbv.Ly2R2fc6ZUiy3dqU][Friday September 11th]]
-- Wednesday September 9th   -- Mark wasn't sent the link 😄; will fix
+- [[https://mcmaster.zoom.us/rec/share/GfWL_qLmp2KKoQRAREqB5UEGKzw8D8-njFmF-l4u6u-KrsKoSt0G_e_7yqbpvai3.EdLb51fZQGjYDjCE][Wednesday September 9th]]
 - [[https://mcmaster.zoom.us/rec/share/gwx2YpVecIWEuDKvFccM-iheHk-e-oYlNbWAid9intQ13YtpFa3EBgJKCrvSVl3x.0VVhBIRDZt1oQgjm][Tuesday September 8th]]
 
 *** Tutorials
@@ -89,13 +93,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h1.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h2.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** Previous
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h2.html][Homework 2]]
+  - September 16th – September 22nd
 - [[./h1.html][Homework 1]]
   - September 9th – September 15th
 
