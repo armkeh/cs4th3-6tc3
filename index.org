@@ -24,7 +24,8 @@
 :END:
 
 1. [[./1.pdf][Introduction; Mathematical Preliminaries]]
-
+2. [[./2.pdf][Programs Which Compute Functions]]
+   
 ** Tutorial notes
 :PROPERTIES:
 :CUSTOM_ID: Tutorial-notes
