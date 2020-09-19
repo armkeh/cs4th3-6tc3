@@ -9,6 +9,8 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Sept 19 :: Recent recordings have been posted.
+- Sept 18 :: The second set of notes has been uploaded.
 - Sept 16 :: Homework 2 is uploaded, and available in the homeworks section
   as the current homework.
 - Sept 16 :: New course website created. Enjoy!
@@ -68,18 +70,12 @@ The passcode for the recordings is ~cs-se-4th3~.
 :CUSTOM_ID: Lectures
 :END:
 
+- [[https://mcmaster.zoom.us/rec/share/bGfd6uE_nVndSU_N6MRUnFvH-NLO1_QrpJ1jUTBHQAHF-s7K1VIezjKzagmnThF7.rcjpyqqORkwh3vEg][Friday September 18th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/LUrJYv0XIIKeh0MlUBbqhuvyidml1PyrM8B8uZvKkS7CKw5vl-UiAWPmn0lf0etN.GTo4L4pnvAOV-Bgs][Wednesday September 16th]]
 - Tuesday September 15th   // missing the link for the moment
-- [[https://mcmaster.zoom.us/rec/share/vWP8NL3cwNtlTLAGM96CQ6x7Sb6XEI84d_oVl1n5MO5pRO_S1SauEkb5rYx6PDbv.Ly2R2fc6ZUiy3dqU][Friday September 11th]]
+- [[https://mcmaster.zoom.us/rec/share/vWP8NL3cwNtlTLAGM96CQ6x7Sb6XEI84d_oVl1n5MO5pRO_S1SauEkb5rYx6PDbv.Ly2R2fc6ZUiy3dqU][Friday September 11th]] lecture, [[https://mcmaster.zoom.us/rec/share/hy2SVFDhYaqS8MfRgdUH1-TI04mSlmA_4zVadsZQ8QHLXb4h2cwHFiTZy7R694zt.jAwhYeCK--zrL8rI][tutorial]]
 - [[https://mcmaster.zoom.us/rec/share/GfWL_qLmp2KKoQRAREqB5UEGKzw8D8-njFmF-l4u6u-KrsKoSt0G_e_7yqbpvai3.EdLb51fZQGjYDjCE][Wednesday September 9th]]
 - [[https://mcmaster.zoom.us/rec/share/gwx2YpVecIWEuDKvFccM-iheHk-e-oYlNbWAid9intQ13YtpFa3EBgJKCrvSVl3x.0VVhBIRDZt1oQgjm][Tuesday September 8th]]
-
-*** Tutorials
-:PROPERTIES:
-:CUSTOM_ID: Tutorials
-:END:
-
-- [[https://mcmaster.zoom.us/rec/share/hy2SVFDhYaqS8MfRgdUH1-TI04mSlmA_4zVadsZQ8QHLXb4h2cwHFiTZy7R694zt.jAwhYeCK--zrL8rI][Friday September 11th]]
 
 * Homeworks
 :PROPERTIES:
