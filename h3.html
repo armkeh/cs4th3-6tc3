@@ -3,13 +3,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-23 Wed 20:11 -->
+<!-- 2020-09-23 Wed 20:10 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>CS/SE 4TH3, CS 6TC3:  THEORY OF COMPUTATION</title>
+<title>HWK 3</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Jeffery Zucker" />
-<meta name="description" content="Course outline and contents"
+<meta name="description" content="Homework 3"
  />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -195,17 +195,12 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="styles/bigblow/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="styles/bigblow/css/bigblow.css"/>
-<link rel="stylesheet" type="text/css" href="styles/bigblow/css/hideshow.css"/>
-<script type="text/javascript" src="styles/bigblow/js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/jquery.localscroll-min.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/jquery.zclip.min.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/bigblow.js"></script>
-<script type="text/javascript" src="styles/bigblow/js/hideshow.js"></script>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/readtheorg.css"/>
+<script type="text/javascript" src="styles/lib/js/jquery.min.js"></script>
+<script type="text/javascript" src="styles/lib/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="styles/readtheorg/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -252,187 +247,114 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">CS/SE 4TH3, CS 6TC3:  THEORY OF COMPUTATION</h1>
+<h1 class="title">HWK 3
+<br />
+<span class="subtitle">Due Tuesday September 29th, 6p.m.</span>
+</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#Announcements">1. Announcements</a></li>
-<li><a href="#Notes">2. Notes</a>
-<ul>
-<li><a href="#Lecture-notes">2.1. Lecture notes</a></li>
-<li><a href="#Tutorial-notes">2.2. Tutorial notes</a></li>
-</ul>
-</li>
-<li><a href="#Lectures/tutorials">3. Lectures/tutorials</a>
-<ul>
-<li><a href="#Zoom-meeting-links-and-password">3.1. Zoom meeting links and password</a></li>
-<li><a href="#Lecture-and-tutorial-recordings">3.2. Lecture and tutorial recordings</a>
-<ul>
-<li><a href="#Lectures">3.2.1. Lectures</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#Homeworks">4. Homeworks</a>
-<ul>
-<li><a href="#Current">4.1. Current</a></li>
-<li><a href="#Previous">4.2. All homeworks</a></li>
-</ul>
-</li>
-<li><a href="#Outline">5. Outline</a></li>
+<li><a href="#(1)">(1)</a></li>
+<li><a href="#(2)">(2)</a></li>
+<li><a href="#(3)">(3)</a></li>
+<li><a href="#BONUS-QUESTION-(Optional)">BONUS QUESTION (Optional)</a></li>
+<li><a href="#SNEAK-PREVIEW-of-Hwk-4">SNEAK PREVIEW of Hwk 4</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org5db986d" class="outline-2">
-<h2 id="Announcements"><span class="section-number-2">1</span> Announcements</h2>
-<div class="outline-text-2" id="text-Announcements">
-<dl class="org-dl">
-<dt>Sept 23</dt><dd>The third set of notes has been uploaded.</dd>
-<dt>Sept 19</dt><dd>Recent recordings have been posted.</dd>
-<dt>Sept 18</dt><dd>The second set of notes has been uploaded.</dd>
-<dt>Sept 16</dt><dd>Homework 2 is uploaded, and available in the homeworks section
-as the current homework.</dd>
-<dt>Sept 16</dt><dd>New course website created. Enjoy!</dd>
-</dl>
-</div>
-</div>
 
-<div id="outline-container-orgc1fe2f6" class="outline-2">
-<h2 id="Notes"><span class="section-number-2">2</span> Notes</h2>
-<div class="outline-text-2" id="text-Notes">
-</div>
-
-<div id="outline-container-orgac0ef9d" class="outline-3">
-<h3 id="Lecture-notes"><span class="section-number-3">2.1</span> Lecture notes</h3>
-<div class="outline-text-3" id="text-Lecture-notes">
-<ol class="org-ol">
-<li><a href="./1.pdf">Introduction; Mathematical Preliminaries</a></li>
-<li><a href="./2.pdf">Programs Which Compute Functions</a></li>
-<li><a href="./3.pdf">𝒢-Computable Functions</a></li>
-</ol>
-</div>
-</div>
-
-<div id="outline-container-org6829018" class="outline-3">
-<h3 id="Tutorial-notes"><span class="section-number-3">2.2</span> Tutorial notes</h3>
-<div class="outline-text-3" id="text-Tutorial-notes">
+<div id="outline-container-org19ae487" class="outline-2">
+<h2 id="(1)">(1)</h2>
+<div class="outline-text-2" id="text-(1)">
 <p>
-The tutorial notes contain a mix of
-</p>
-<ul class="org-ul">
-<li><i>proofs</i> as example,</li>
-<li><i>advice</i> for the current homework that week, and</li>
-<li><i>solutions</i> for previous homeworks.</li>
-</ul>
-<p>
-The exact coverage for each is listed with the tutorial.
+Prove
+(a) If \(A ≈ B\) and \(A\) is finite then so is \(B\).
+(b) If \(A ≈ B\) and \(A\) is countably infinite then so is \(B\).
+(c) If \(A ≈ B\) and \(A\) is uncountable then so is \(B\).
 </p>
 
-<ul class="org-ul">
-<li><a href="./t1-sept11.pdf">Tutorial 1, September 11th</a>
-<ul class="org-ul">
-<li>Proofs: Lemma 1.2(a) and Corollary 1.3(b).</li>
-<li>Advice: Lemma 1.2(b)</li>
-</ul></li>
-</ul>
-</div>
-</div>
-</div>
-<div id="outline-container-org0d2ae9b" class="outline-2">
-<h2 id="Lectures/tutorials"><span class="section-number-2">3</span> Lectures/tutorials</h2>
-<div class="outline-text-2" id="text-Lectures/tutorials">
-</div>
-
-<div id="outline-container-org18f450a" class="outline-3">
-<h3 id="Zoom-meeting-links-and-password"><span class="section-number-3">3.1</span> Zoom meeting links and password</h3>
-<div class="outline-text-3" id="text-Zoom-meeting-links-and-password">
-<ul class="org-ul">
-<li><a href="https://mcmaster.zoom.us/j/92944332438">Tuesday lecture</a></li>
-<li><a href="https://mcmaster.zoom.us/j/91735616596">Wednesday lecture</a></li>
-<li><a href="https://mcmaster.zoom.us/j/97653010753">Friday lecture and tutorial</a></li>
-</ul>
-
 <p>
-In each case, the password is <code>4th3</code>.
+See Note (f), p.1-10.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org5f2f912" class="outline-3">
-<h3 id="Lecture-and-tutorial-recordings"><span class="section-number-3">3.2</span> Lecture and tutorial recordings</h3>
-<div class="outline-text-3" id="text-Lecture-and-tutorial-recordings">
+<div id="outline-container-org2f86226" class="outline-2">
+<h2 id="(2)">(2)</h2>
+<div class="outline-text-2" id="text-(2)">
 <p>
-The passcode for the recordings is <code>cs-se-4th3</code>.
+Prove Theorem 1.13 (c): \(\text{PRED}(ℕ)\) is uncountable.
 </p>
-</div>
 
-<div id="outline-container-org7e3bd91" class="outline-4">
-<h4 id="Lectures"><span class="section-number-4">3.2.1</span> Lectures</h4>
-<div class="outline-text-4" id="text-Lectures">
-<ul class="org-ul">
-<li><a href="https://mcmaster.zoom.us/rec/share/Uw0DoDVM76QkMimottqvxDbq6seKCOBLbXm4eBhyGfXLGm4IgrH2Zo9KF-L-jd4S.7JdhCSieFA6vyFfB">Wednesday September 23rd</a></li>
-<li>[[][Tuesday September 22nd]</li>
-<li><a href="https://mcmaster.zoom.us/rec/share/bGfd6uE_nVndSU_N6MRUnFvH-NLO1_QrpJ1jUTBHQAHF-s7K1VIezjKzagmnThF7.rcjpyqqORkwh3vEg">Friday September 18th</a>, lecture + tutorial</li>
-<li><a href="https://mcmaster.zoom.us/rec/share/LUrJYv0XIIKeh0MlUBbqhuvyidml1PyrM8B8uZvKkS7CKw5vl-UiAWPmn0lf0etN.GTo4L4pnvAOV-Bgs">Wednesday September 16th</a></li>
-<li><a href="https://mcmaster.zoom.us/rec/share/Eg9N01Af9m7HsSBsEjQR5cGj7QqztSpx-qoVVcqOPcVMpFkQkqB2JNJEDzzm17k.SBFqVTazdns3kLXy">Tuesday September 15th</a></li>
-<li><a href="https://mcmaster.zoom.us/rec/share/vWP8NL3cwNtlTLAGM96CQ6x7Sb6XEI84d_oVl1n5MO5pRO_S1SauEkb5rYx6PDbv.Ly2R2fc6ZUiy3dqU">Friday September 11th</a> lecture, <a href="https://mcmaster.zoom.us/rec/share/hy2SVFDhYaqS8MfRgdUH1-TI04mSlmA_4zVadsZQ8QHLXb4h2cwHFiTZy7R694zt.jAwhYeCK--zrL8rI">tutorial</a></li>
-<li><a href="https://mcmaster.zoom.us/rec/share/GfWL_qLmp2KKoQRAREqB5UEGKzw8D8-njFmF-l4u6u-KrsKoSt0G_e_7yqbpvai3.EdLb51fZQGjYDjCE">Wednesday September 9th</a></li>
-<li><a href="https://mcmaster.zoom.us/rec/share/gwx2YpVecIWEuDKvFccM-iheHk-e-oYlNbWAid9intQ13YtpFa3EBgJKCrvSVl3x.0VVhBIRDZt1oQgjm">Tuesday September 8th</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-
-<div id="outline-container-org10291c2" class="outline-2">
-<h2 id="Homeworks"><span class="section-number-2">4</span> Homeworks</h2>
-<div class="outline-text-2" id="text-Homeworks">
 <p>
-Homeworks are originally distributed via email to the class mailing list.
-They are then uploaded here by Mark.
-</p>
-</div>
-
-<div id="outline-container-org3e5da0a" class="outline-3">
-<h3 id="Current"><span class="section-number-3">4.1</span> Current</h3>
-<div class="outline-text-3" id="text-Current">
-<p>
-<iframe src="h3.html" style="width: 100%; height: 75vh"></iframe>
+Use a diagonalization method.  Do not use the fact that
+\(\text{PRED}(ℕ)\) is equinumerous with \(𝒫(ℕ)\).
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgfc260d7" class="outline-3">
-<h3 id="Previous"><span class="section-number-3">4.2</span> All homeworks</h3>
-<div class="outline-text-3" id="text-Previous">
-<ul class="org-ul">
-<li><a href="./h3.html">Homework 3</a>
-<ul class="org-ul">
-<li>September 23rd – September 29th</li>
-</ul></li>
-<li><a href="./h2.html">Homework 2</a>
-<ul class="org-ul">
-<li>September 16th – September 22nd</li>
-</ul></li>
-<li><a href="./h1.html">Homework 1</a>
-<ul class="org-ul">
-<li>September 9th – September 15th</li>
-</ul></li>
-</ul>
-</div>
+<div id="outline-container-orgf067fc4" class="outline-2">
+<h2 id="(3)">(3)</h2>
+<div class="outline-text-2" id="text-(3)">
+<p>
+Notes page 2-5, exercises 1-6.
+</p>
 </div>
 </div>
 
-<div id="outline-container-org20c466c" class="outline-2">
-<h2 id="Outline"><span class="section-number-2">5</span> Outline</h2>
-<div class="outline-text-2" id="text-Outline">
+<div id="outline-container-orgcaf3b01" class="outline-2">
+<h2 id="BONUS-QUESTION-(Optional)">BONUS QUESTION (Optional)</h2>
+<div class="outline-text-2" id="text-BONUS-QUESTION-(Optional)">
 <p>
-<iframe src="outline.html" style="width: 100%; height: 75vh"></iframe>
+Prove the equivalence of the induction schemes <code>SI</code> and <code>CVI</code> (p. 1-16)
+(Note: You may have to change the predicates \(P\) in going from one
+scheme to the other.)
+</p>
+
+<p>
+NOTE:  Occasionally I'll give optional bonus questions,
+There is no time limit, but try them sooner rather than later.
+When you have a solution to any, email them to me (Dr. Zucker) directly.
+</p>
+
+<p>
+<b>Don't include them in your regular homeworks</b>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org681636a" class="outline-2">
+<h2 id="SNEAK-PREVIEW-of-Hwk-4">SNEAK PREVIEW of Hwk 4</h2>
+<div class="outline-text-2" id="text-SNEAK-PREVIEW-of-Hwk-4">
+<p>
+Prove Lemmas 3.6 and 3.8.
 </p>
 </div>
 </div>
@@ -440,8 +362,8 @@ They are then uploaded here by Mark.
 <div id="postamble" class="status">
 <p class="author">Author: Jeffery Zucker</p>
      <p class="author">Contact: <a href="mailto:markparmstrong@gmail.com">markparmstrong@gmail.com</a></p>
-     <p class="date">Original date: Term 1, 2020/2021</p>
-     <p class="date">Last updated: 2020-09-23 Wed 20:11</p>
+     <p class="date">Original date: </p>
+     <p class="date">Last updated: 2020-09-23 Wed 20:09</p>
      <p class="creator">Created using <a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.0.90 (<a href="https://orgmode.org">Org</a> mode 9.3.8)</p>
      <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

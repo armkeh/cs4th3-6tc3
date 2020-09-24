@@ -1,0 +1,58 @@
+#+Title: HWK 3
+#+Subtitle: Due Tuesday September 29th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 3
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Prove
+(a) If $A ≈ B$ and $A$ is finite then so is $B$.
+(b) If $A ≈ B$ and $A$ is countably infinite then so is $B$.
+(c) If $A ≈ B$ and $A$ is uncountable then so is $B$.
+
+See Note (f), p.1-10.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Prove Theorem 1.13 (c): $\text{PRED}(ℕ)$ is uncountable.
+
+Use a diagonalization method.  Do not use the fact that
+$\text{PRED}(ℕ)$ is equinumerous with $𝒫(ℕ)$.
+
+* (3)
+:PROPERTIES:
+:CUSTOM_ID: (3)
+:END:
+
+Notes page 2-5, exercises 1-6.
+
+* BONUS QUESTION (Optional)
+:PROPERTIES:
+:CUSTOM_ID: BONUS-QUESTION-(Optional)
+:END:
+
+Prove the equivalence of the induction schemes =SI= and =CVI= (p. 1-16)
+(Note: You may have to change the predicates $P$ in going from one
+scheme to the other.)
+
+NOTE:  Occasionally I'll give optional bonus questions,
+There is no time limit, but try them sooner rather than later.
+When you have a solution to any, email them to me (Dr. Zucker) directly.
+
+*Don't include them in your regular homeworks*.
+
+* SNEAK PREVIEW of Hwk 4
+:PROPERTIES:
+:CUSTOM_ID: SNEAK-PREVIEW-of-Hwk-4
+:END:
+
+Prove Lemmas 3.6 and 3.8.
