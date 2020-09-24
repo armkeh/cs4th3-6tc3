@@ -9,6 +9,7 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Sept 23 :: The third homework has been posted.
 - Sept 23 :: The third set of notes has been uploaded.
 - Sept 19 :: Recent recordings have been posted.
 - Sept 18 :: The second set of notes has been uploaded.
