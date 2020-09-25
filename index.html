@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-24 Thu 00:00 -->
+<!-- 2020-09-25 Fri 09:36 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>CS/SE 4TH3, CS 6TC3:  THEORY OF COMPUTATION</title>
@@ -206,51 +206,28 @@
 <script type="text/javascript" src="styles/bigblow/js/bigblow.js"></script>
 <script type="text/javascript" src="styles/bigblow/js/hideshow.js"></script>
 <script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<style>pre.src{background:#000000;color:white;} </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -288,10 +265,21 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org4d1f194" class="outline-2">
+<div id="outline-container-Announcements" class="outline-2">
 <h2 id="Announcements"><span class="section-number-2">1</span> Announcements</h2>
 <div class="outline-text-2" id="text-Announcements">
 <dl class="org-dl">
+<dt>Sept 25</dt><dd>The fourth set of notes has been uploaded.
+<ul class="org-ul">
+<li>For the moment, I have uploaded older versions of notes 3 and 4
+which may have some minor differences from those used in lectures.
+Later today I will upload the most recent versions.
+<ul class="org-ul">
+<li>So if you are saving these notes locally,
+you may need to download them again once I announce
+the more recent versions have been posted.</li>
+</ul></li>
+</ul></dd>
 <dt>Sept 23</dt><dd>The third homework has been posted.</dd>
 <dt>Sept 23</dt><dd>The third set of notes has been uploaded.</dd>
 <dt>Sept 19</dt><dd>Recent recordings have been posted.</dd>
@@ -303,23 +291,24 @@ as the current homework.</dd>
 </div>
 </div>
 
-<div id="outline-container-org098e240" class="outline-2">
+<div id="outline-container-Notes" class="outline-2">
 <h2 id="Notes"><span class="section-number-2">2</span> Notes</h2>
 <div class="outline-text-2" id="text-Notes">
 </div>
 
-<div id="outline-container-orgfd1dc88" class="outline-3">
+<div id="outline-container-Lecture-notes" class="outline-3">
 <h3 id="Lecture-notes"><span class="section-number-3">2.1</span> Lecture notes</h3>
 <div class="outline-text-3" id="text-Lecture-notes">
 <ol class="org-ol">
 <li><a href="./1.pdf">Introduction; Mathematical Preliminaries</a></li>
 <li><a href="./2.pdf">Programs Which Compute Functions</a></li>
 <li><a href="./3.pdf">𝒢-Computable Functions</a></li>
+<li><a href="./4.pdf">Primitive Recursiveness</a></li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-org4ae156d" class="outline-3">
+<div id="outline-container-Tutorial-notes" class="outline-3">
 <h3 id="Tutorial-notes"><span class="section-number-3">2.2</span> Tutorial notes</h3>
 <div class="outline-text-3" id="text-Tutorial-notes">
 <p>
@@ -344,12 +333,12 @@ The exact coverage for each is listed with the tutorial.
 </div>
 </div>
 </div>
-<div id="outline-container-org68e5689" class="outline-2">
+<div id="outline-container-Lectures/tutorials" class="outline-2">
 <h2 id="Lectures/tutorials"><span class="section-number-2">3</span> Lectures/tutorials</h2>
 <div class="outline-text-2" id="text-Lectures/tutorials">
 </div>
 
-<div id="outline-container-orge0acf8d" class="outline-3">
+<div id="outline-container-Zoom-meeting-links-and-password" class="outline-3">
 <h3 id="Zoom-meeting-links-and-password"><span class="section-number-3">3.1</span> Zoom meeting links and password</h3>
 <div class="outline-text-3" id="text-Zoom-meeting-links-and-password">
 <ul class="org-ul">
@@ -364,7 +353,7 @@ In each case, the password is <code>4th3</code>.
 </div>
 </div>
 
-<div id="outline-container-orgbbf41c0" class="outline-3">
+<div id="outline-container-Lecture-and-tutorial-recordings" class="outline-3">
 <h3 id="Lecture-and-tutorial-recordings"><span class="section-number-3">3.2</span> Lecture and tutorial recordings</h3>
 <div class="outline-text-3" id="text-Lecture-and-tutorial-recordings">
 <p>
@@ -372,7 +361,7 @@ The passcode for the recordings is <code>cs-se-4th3</code>.
 </p>
 </div>
 
-<div id="outline-container-org5a5b0c1" class="outline-4">
+<div id="outline-container-Lectures" class="outline-4">
 <h4 id="Lectures"><span class="section-number-4">3.2.1</span> Lectures</h4>
 <div class="outline-text-4" id="text-Lectures">
 <ul class="org-ul">
@@ -390,7 +379,7 @@ The passcode for the recordings is <code>cs-se-4th3</code>.
 </div>
 </div>
 
-<div id="outline-container-org284c91d" class="outline-2">
+<div id="outline-container-Homeworks" class="outline-2">
 <h2 id="Homeworks"><span class="section-number-2">4</span> Homeworks</h2>
 <div class="outline-text-2" id="text-Homeworks">
 <p>
@@ -399,7 +388,7 @@ They are then uploaded here by Mark.
 </p>
 </div>
 
-<div id="outline-container-orgd140305" class="outline-3">
+<div id="outline-container-Current" class="outline-3">
 <h3 id="Current"><span class="section-number-3">4.1</span> Current</h3>
 <div class="outline-text-3" id="text-Current">
 <p>
@@ -408,7 +397,7 @@ They are then uploaded here by Mark.
 </div>
 </div>
 
-<div id="outline-container-org5e9e704" class="outline-3">
+<div id="outline-container-Previous" class="outline-3">
 <h3 id="Previous"><span class="section-number-3">4.2</span> All homeworks</h3>
 <div class="outline-text-3" id="text-Previous">
 <ul class="org-ul">
@@ -429,7 +418,7 @@ They are then uploaded here by Mark.
 </div>
 </div>
 
-<div id="outline-container-org10c3f1a" class="outline-2">
+<div id="outline-container-Outline" class="outline-2">
 <h2 id="Outline"><span class="section-number-2">5</span> Outline</h2>
 <div class="outline-text-2" id="text-Outline">
 <p>
@@ -442,7 +431,7 @@ They are then uploaded here by Mark.
 <p class="author">Author: Jeffery Zucker</p>
      <p class="author">Contact: <a href="mailto:markparmstrong@gmail.com">markparmstrong@gmail.com</a></p>
      <p class="date">Original date: Term 1, 2020/2021</p>
-     <p class="date">Last updated: 2020-09-24 Thu 00:00</p>
+     <p class="date">Last updated: 2020-09-25 Fri 09:36</p>
      <p class="creator">Created using <a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.0.90 (<a href="https://orgmode.org">Org</a> mode 9.3.8)</p>
      <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

@@ -9,6 +9,13 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Sept 25 :: The fourth set of notes has been uploaded.
+  - For the moment, I have uploaded older versions of notes 3 and 4
+    which may have some minor differences from those used in lectures.
+    Later today I will upload the most recent versions.
+    - So if you are saving these notes locally,
+      you may need to download them again once I announce
+      the more recent versions have been posted.
 - Sept 23 :: The third homework has been posted.
 - Sept 23 :: The third set of notes has been uploaded.
 - Sept 19 :: Recent recordings have been posted.
@@ -30,6 +37,7 @@
 1. [[./1.pdf][Introduction; Mathematical Preliminaries]]
 2. [[./2.pdf][Programs Which Compute Functions]]
 3. [[./3.pdf][𝒢-Computable Functions]]
+4. [[./4.pdf][Primitive Recursiveness]]
    
 ** Tutorial notes
 :PROPERTIES:
