@@ -9,6 +9,8 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Sept 25 :: Today's lecture and tutorial recording link has been posted.
+  The newer versions of notes 3 and 4 have been posted, along with notes 5.
 - Sept 25 :: The fourth set of notes has been uploaded.
   - For the moment, I have uploaded older versions of notes 3 and 4
     which may have some minor differences from those used in lectures.
@@ -38,6 +40,7 @@
 2. [[./2.pdf][Programs Which Compute Functions]]
 3. [[./3.pdf][𝒢-Computable Functions]]
 4. [[./4.pdf][Primitive Recursiveness]]
+5. [[./5.pdf][Some Techniques for Defining PR Functions]]
    
 ** Tutorial notes
 :PROPERTIES:
@@ -81,6 +84,7 @@ The passcode for the recordings is ~cs-se-4th3~.
 :CUSTOM_ID: Lectures
 :END:
 
+- [[https://mcmaster.zoom.us/rec/share/AopdkDNhNLb6qZNBzUv_9FWq7fQ8uNl7getGVkEsOnGUiY7TIEB1lAochMBN5mw.Ob3j6Y0q5mAOPfec][Friday September 25th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/Uw0DoDVM76QkMimottqvxDbq6seKCOBLbXm4eBhyGfXLGm4IgrH2Zo9KF-L-jd4S.7JdhCSieFA6vyFfB][Wednesday September 23rd]]
 - [[https://mcmaster.zoom.us/rec/share/jTu2RhtxbEGXt97w04yXlKEzzFABp65512xUqdCBDspEF7yQyADu_aA4YWYlbh9U.Eg_OF4q_NNRZWsgI][Tuesday September 22nd]]
 - [[https://mcmaster.zoom.us/rec/share/bGfd6uE_nVndSU_N6MRUnFvH-NLO1_QrpJ1jUTBHQAHF-s7K1VIezjKzagmnThF7.rcjpyqqORkwh3vEg][Friday September 18th]], lecture + tutorial
