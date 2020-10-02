@@ -12,9 +12,9 @@
 :END:
 
 Prove
-(a) If $A ≈ B$ and $A$ is finite then so is $B$.
-(b) If $A ≈ B$ and $A$ is countably infinite then so is $B$.
-(c) If $A ≈ B$ and $A$ is uncountable then so is $B$.
+1. If $A ≈ B$ and $A$ is finite then so is $B$.
+2. If $A ≈ B$ and $A$ is countably infinite then so is $B$.
+3. If $A ≈ B$ and $A$ is uncountable then so is $B$.
 
 See Note (f), p.1-10.
 

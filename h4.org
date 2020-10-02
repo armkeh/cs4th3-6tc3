@@ -1,0 +1,31 @@
+#+Title: HWK 4
+#+Subtitle: Due Tuesday October 6th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 4
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Prove Lemma 3.6 (p. 3-8)
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Prove Lemma 3.8 (p. 3-8)
+
+* Bonus questions
+:PROPERTIES:
+:CUSTOM_ID: Bonus-questions
+:END:
+
+1. Prove the equivalence of CVI and LNP.
+2. Prove the equivalence of the induction schemes SI and CVI.
+
+(Note: In both cases, you may have to change the predicate 'P' 
+ in going from one scheme to the other.)

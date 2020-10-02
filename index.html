@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-30 Wed 16:56 -->
+<!-- 2020-10-02 Fri 01:23 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>CS/SE 4TH3, CS 6TC3:  THEORY OF COMPUTATION</title>
@@ -229,6 +229,28 @@
     /*]]>*///-->
 // @license-end
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
@@ -256,10 +278,17 @@
 </li>
 <li><a href="#Homeworks">4. Homeworks</a>
 <ul>
-<li><a href="#Previous">4.1. All homeworks</a></li>
+<li><a href="#Current">4.1. Current</a></li>
+<li><a href="#Previous">4.2. All homeworks</a></li>
 </ul>
 </li>
-<li><a href="#Outline">5. Outline</a></li>
+<li><a href="#Bonus-questions">5. Bonus questions</a>
+<ul>
+<li><a href="#Bonus-question-policy">5.1. Bonus question policy</a></li>
+<li><a href="#The-questions">5.2. The questions</a></li>
+</ul>
+</li>
+<li><a href="#Outline">6. Outline</a></li>
 </ul>
 </div>
 </div>
@@ -268,6 +297,11 @@
 <h2 id="Announcements"><span class="section-number-2">1</span> Announcements</h2>
 <div class="outline-text-2" id="text-Announcements">
 <dl class="org-dl">
+<dt>Oct 2</dt><dd>Homework 4 has been posted.
+<ul class="org-ul">
+<li>Additionally, a new section was added to this site
+which collects all the bonus questions in one place.</li>
+</ul></dd>
 <dt>Sept 27</dt><dd>Notes from the last two tutorials have been uploaded.</dd>
 <dt>Sept 25</dt><dd>Today's lecture and tutorial recording link has been posted.
 The newer versions of notes 3 and 4 have been posted, along with notes 5.</dd>
@@ -417,10 +451,23 @@ They are then uploaded here by Mark.
 </p>
 </div>
 
+<div id="outline-container-Current" class="outline-3">
+<h3 id="Current"><span class="section-number-3">4.1</span> Current</h3>
+<div class="outline-text-3" id="text-Current">
+<p>
+<iframe src="h4.html" style="width: 100%; height: 75vh"></iframe>
+</p>
+</div>
+</div>
+
 <div id="outline-container-Previous" class="outline-3">
-<h3 id="Previous"><span class="section-number-3">4.1</span> All homeworks</h3>
+<h3 id="Previous"><span class="section-number-3">4.2</span> All homeworks</h3>
 <div class="outline-text-3" id="text-Previous">
 <ul class="org-ul">
+<li><a href="./h4.html">Homework 4</a>
+<ul class="org-ul">
+<li>September 30th - October 6th</li>
+</ul></li>
 <li><a href="./h3.html">Homework 3</a>
 <ul class="org-ul">
 <li>September 23rd – September 29th</li>
@@ -438,8 +485,53 @@ They are then uploaded here by Mark.
 </div>
 </div>
 
+<div id="outline-container-Bonus-questions" class="outline-2">
+<h2 id="Bonus-questions"><span class="section-number-2">5</span> Bonus questions</h2>
+<div class="outline-text-2" id="text-Bonus-questions">
+</div>
+
+<div id="outline-container-Bonus-question-policy" class="outline-3">
+<h3 id="Bonus-question-policy"><span class="section-number-3">5.1</span> Bonus question policy</h3>
+<div class="outline-text-3" id="text-Bonus-question-policy">
+<p>
+Bonus questions are:
+</p>
+<ul class="org-ul">
+<li>Released alongside the homeworks, but are not due when
+the homework is due.
+<ul class="org-ul">
+<li>Instead, they are due any time before solutions
+are given in lecture.</li>
+</ul></li>
+<li>To be submitted to Dr. Zucker, not Mark.</li>
+<li>Not assigned a specific weight; instead, completion of bonus questions
+could lead to a slight increase in your final grade
+if it is close to the cutoff for a higher grade point.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-The-questions" class="outline-3">
+<h3 id="The-questions"><span class="section-number-3">5.2</span> The questions</h3>
+<div class="outline-text-3" id="text-The-questions">
+<ol class="org-ol">
+<li>Prove the equivalence of the induction schemes SI and CVI.
+<ul class="org-ul">
+<li>Hint: you may have to change the predicate \(P\) in going
+from one scheme to the other.</li>
+</ul></li>
+<li>Prove the equivalence of CVI and LNP.
+<ul class="org-ul">
+<li>Hint: as above, you may have to change the predicate \(P\) in going
+from one scheme to the other.</li>
+</ul></li>
+</ol>
+</div>
+</div>
+</div>
+
 <div id="outline-container-Outline" class="outline-2">
-<h2 id="Outline"><span class="section-number-2">5</span> Outline</h2>
+<h2 id="Outline"><span class="section-number-2">6</span> Outline</h2>
 <div class="outline-text-2" id="text-Outline">
 <p>
 <iframe src="outline.html" style="width: 100%; height: 75vh"></iframe>
@@ -451,7 +543,7 @@ They are then uploaded here by Mark.
 <p class="author">Author: Jeffery Zucker</p>
      <p class="author">Contact: <a href="mailto:markparmstrong@gmail.com">markparmstrong@gmail.com</a></p>
      <p class="date">Original date: Term 1, 2020/2021</p>
-     <p class="date">Last updated: 2020-09-30 Wed 16:55</p>
+     <p class="date">Last updated: 2020-10-02 Fri 01:22</p>
      <p class="creator">Created using <a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.0.90 (<a href="https://orgmode.org">Org</a> mode 9.4)</p>
      <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

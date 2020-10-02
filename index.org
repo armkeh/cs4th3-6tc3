@@ -9,6 +9,9 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Oct 2 :: Homework 4 has been posted.
+  - Additionally, a new section was added to this site
+    which collects all the bonus questions in one place. 
 - Sept 27 :: Notes from the last two tutorials have been uploaded.
 - Sept 25 :: Today's lecture and tutorial recording link has been posted.
   The newer versions of notes 3 and 4 have been posted, along with notes 5.
@@ -118,25 +121,59 @@ The passcode for the recordings is ~cs-se-4th3~.
 Homeworks are originally distributed via email to the class mailing list.
 They are then uploaded here by Mark.
 
-** COMMENT Current
+** Current
 :PROPERTIES:
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h3.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h4.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h4.html][Homework 4]]
+  - September 30th - October 6th
 - [[./h3.html][Homework 3]]
-  - September 23rd – September 29th 
+  - September 23rd – September 29th
 - [[./h2.html][Homework 2]]
   - September 16th – September 22nd
 - [[./h1.html][Homework 1]]
   - September 9th – September 15th
 
+* Bonus questions
+:PROPERTIES:
+:CUSTOM_ID: Bonus-questions
+:END:
+
+** Bonus question policy
+:PROPERTIES:
+:CUSTOM_ID: Bonus-question-policy
+:END:
+
+Bonus questions are:
+- Released alongside the homeworks, but are not due when
+  the homework is due.
+  - Instead, they are due any time before solutions
+    are given in lecture.
+- To be submitted to Dr. Zucker, not Mark.
+- Not assigned a specific weight; instead, completion of bonus questions
+  could lead to a slight increase in your final grade
+  if it is close to the cutoff for a higher grade point.
+
+** The questions
+:PROPERTIES:
+:CUSTOM_ID: The-questions
+:END:
+
+1. Prove the equivalence of the induction schemes SI and CVI.
+   - Hint: you may have to change the predicate $P$ in going
+     from one scheme to the other.
+2. Prove the equivalence of CVI and LNP.
+   - Hint: as above, you may have to change the predicate $P$ in going
+     from one scheme to the other.
+   
 * Outline
 :PROPERTIES:
 :CUSTOM_ID: Outline
