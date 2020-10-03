@@ -9,6 +9,7 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Oct 3 :: Notes from yesterday's tutorial have been posted.
 - Oct 2 :: Homework 4 has been posted.
   - Additionally, a new section was added to this site
     which collects all the bonus questions in one place. 
@@ -57,6 +58,11 @@ The tutorial notes contain a mix of
 - /solutions/ for previous homeworks.
 The exact coverage for each is listed with the tutorial.
 
+- [[./t4-oct2.pdf][Tutorial 4, October 2nd]]
+  - Proofs:
+    - Page 1-10 note (f).
+    - Theorem 1.13(c).
+  - Advice: for lemmas 3.6 and 3.8
 - [[./t3-sept25.pdf][Tutorial 3, September 25th]]
   - Proofs:
     - Corollary 1.5(c), the ⇒ direction
