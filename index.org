@@ -9,6 +9,9 @@
 :CUSTOM_ID: Announcements
 :END:
 
+- Oct 5 :: I (Mark) have added hints to homework 4.
+  - The hint to use induction was mentioned in Friday's tutorial.
+  - Also see the hint regarding how to show $f$ is total.
 - Oct 3 :: Notes from yesterday's tutorial have been posted.
 - Oct 2 :: Homework 4 has been posted.
   - Additionally, a new section was added to this site

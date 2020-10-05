@@ -12,12 +12,18 @@
 
 Prove Lemma 3.6 (p. 3-8)
 
+Hint: use induction. Also, recall that a function $f$ is total
+if $f(t)$ is defined for all $t$;
+that is, $f(t)$ does not diverge for any $t$.
+
 * (2)
 :PROPERTIES:
 :CUSTOM_ID: (2)
 :END:
 
 Prove Lemma 3.8 (p. 3-8)
+
+Hint: as above.
 
 * Bonus questions
 :PROPERTIES:
