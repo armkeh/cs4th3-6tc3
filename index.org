@@ -14,16 +14,24 @@
 :CUSTOM_ID: October
 :END:
 
+- October 7th :: A Microsoft Teams team has been created
+  for the course.
+
+  It is not a requirement that you use Teams;
+  but it provides and option to communicate with your classmates
+  or with Mark. So far, there are channels for discussing
+  the notes and the homework.
+
 - October 7th :: The new section of notes (notes 6)
   and recent lecture recordings have been posted.
 
-- October 5 :: I (Mark) have added hints to homework 4.
+- October 5th :: I (Mark) have added hints to homework 4.
   - The hint to use induction was mentioned in Friday's tutorial.
   - Also see the hint regarding how to show $f$ is total.
 
-- October 3 :: Notes from yesterday's tutorial have been posted.
+- October 3rd :: Notes from yesterday's tutorial have been posted.
 
-- October 2 :: Homework 4 has been posted.
+- October 2nd :: Homework 4 has been posted.
   - Additionally, a new section was added to this site
     which collects all the bonus questions in one place. 
 
@@ -32,12 +40,12 @@
 :CUSTOM_ID: September
 :END:
 
-- September 27 :: Notes from the last two tutorials have been uploaded.
+- September 27th :: Notes from the last two tutorials have been uploaded.
   
-- September 25 :: Today's lecture and tutorial recording link has been posted.
+- September 25th :: Today's lecture and tutorial recording link has been posted.
   The newer versions of notes 3 and 4 have been posted, along with notes 5.
 
-- September 25 :: The fourth set of notes has been uploaded.
+- September 25th :: The fourth set of notes has been uploaded.
   - For the moment, I have uploaded older versions of notes 3 and 4
     which may have some minor differences from those used in lectures.
     Later today I will upload the most recent versions.
@@ -45,16 +53,16 @@
       you may need to download them again once I announce
       the more recent versions have been posted.
 
-- September 23 :: The third homework has been posted.
-- September 23 :: The third set of notes has been uploaded.
+- September 23rd :: The third homework has been posted.
+- September 23rd :: The third set of notes has been uploaded.
 
-- September 19 :: Recent recordings have been posted.
+- September 19th :: Recent recordings have been posted.
 
-- September 18 :: The second set of notes has been uploaded.
+- September 18th :: The second set of notes has been uploaded.
 
-- September 16 :: Homework 2 is uploaded, and available in the homeworks section
+- September 16th :: Homework 2 is uploaded, and available in the homeworks section
   as the current homework.
-- September 16 :: New course website created. Enjoy!
+- September 16th :: New course website created. Enjoy!
 
 * Notes
 :PROPERTIES:
@@ -133,6 +141,7 @@ The passcode for the recordings is ~cs-se-4th3~.
 :CUSTOM_ID: Lectures
 :END:
 
+- [[https://mcmaster.zoom.us/rec/share/MP1f5P8W8N2QV5VMV_c2a_E5e5979jjjoa7UN1Y8DwW2posEpfhkQVMeLtHDuEP_.bNlqfBekNj97j_ws][Wednesday October 7th]]
 - [[https://mcmaster.zoom.us/rec/share/OoIIvMU-3T1lJxBFgznBJZblHU4HfyRguPkWa-jrSt9VEUcDIg7_ds-MndQ7leih.eZGysVrhC_PzfjzH][Tuesday October 6th]]
 - [[https://mcmaster.zoom.us/rec/share/kvMzwBK9lnpMsf1YtyI0TGVfpFJvSYJuyRuelH99RJerXZkdT97Axyd-GJmpkmmj.O7YiPfLdkqJzDzrB][Friday October 2nd]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/PLsglzDZUoXWTrZUojF9x7t-YM4cJvty7VJTAtIdvEfN-aq4po1GP139CdZXi2R4.wBLhCyyIO4S1QMMA][Wednesday September 30th]]
