@@ -18,8 +18,12 @@
   for the course.
 
   It is not a requirement that you use Teams;
-  but it provides and option to communicate with your classmates
-  or with Mark. So far, there are channels for discussing
+  all course material and announcments will still be
+  distributed by email and by this website.
+  
+  This is simply meant to provide an option
+  to communicate with your classmates or with Mark.
+  So far, there are channels for discussing
   the notes and the homework.
 
 - October 7th :: The new section of notes (notes 6)
