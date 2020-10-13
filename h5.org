@@ -1,0 +1,64 @@
+#+Title: HWK 5
+#+Subtitle: Due Tuesday October 20th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 5
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Complete exercise 2 from page 5-6 of the notes.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Prove Corollary 5.9 (page 5-7.)
+
+* (3)
+:PROPERTIES:
+:CUSTOM_ID: (3)
+:END:
+
+PRove Corollaries 5.11 and 5.12 (page 5-8.)
+
+* (4)
+:PROPERTIES:
+:CUSTOM_ID: (4)
+:END:
+
+IS $f$ as defined in equation (1) on page 5-10
+in $\text{PR}(P)$?
+
+Justify your answer.
+
+* (5)
+:PROPERTIES:
+:CUSTOM_ID: (5)
+:END:
+
+Complete exercise 1, parts (a) through (e),
+from page 5-12 of the notes.
+
+* Notes
+:PROPERTIES:
+:CUSTOM_ID: Notes
+:END:
+
+(1) Bonus question (2), i.e. the equivalence of
+    SI and CVI, is still open!  
+    I plan to give the solution on
+    the Tuesday or Wednesday after reading week,
+    so try to solve it before then.
+
+(2) Hwk 6 will be released on Tuesday October 21st.
+    It will include exercises 2 and 3 on page 5-13,
+    which you should be able to solve now.
+    So you may want to think about these during reading week.
+
+(3) Exercise 4 on page 5-13 becomes simpler using some of the the theory 
+    developed in Section 6, so don't worry about it now.
