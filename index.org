@@ -14,6 +14,34 @@
 :CUSTOM_ID: October
 :END:
 
+- October 21st ::
+
+  Your classmate, Genevieve Maalouf, is running
+  a seminar for women in mathematics *today* starting at 2:45pm.
+  We encourage you to sit in if you are available;
+  [[http://johannafranklin.net/][Dr. Johanna N.Y. Franklin]],
+  a computability theoreist from Hofstra University,
+  will be giving a talk (details below).
+
+  A link to the meeting is [[https://mcmaster.zoom.us/j/96116965732?pwd=ZUVpOGpqalkzcG1WQk00Z2FWSXYrQT09][here]]. The password is ~949862~ (and if needed,
+  the meeting number is ~961 1696 5732~.) As mentioned,
+  the meeting will be starting at 2:45pm.
+
+  Thank you Gen!
+
+  *Title: Algorithmic randomness and its connections to analysis*
+  
+  Abstract:
+  #+begin_quote
+I will characterize randomness using concepts from computability theory with
+three different approaches as starting points: algorithmic information
+theory, probability, and measure theory. After discussing what it means to
+say that an infinite binary sequence is random, I'll extend this notion to
+more traditional mathematical contexts and explain the strong relationships
+that exist between algorithmic randomness and classical theorems in
+analysis.
+  #+end_quote
+
 - October 13th :: Homework 5 has been posted.
 
 - October 7th :: A Microsoft Teams team has been created
