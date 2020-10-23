@@ -182,6 +182,7 @@ to “skip ahead” to the tutorial video.
 :CUSTOM_ID: Lectures
 :END:
 
+- [[https://mcmaster.zoom.us/rec/share/502MCgv9O3tQcFnFZKy9jXiyfOGEVLBa1PYjV7X0C85lqLJ6b-yQlpc1PXr3oOTq.opUd-ljsq51mbDJu][Wednesday October 21st]]
 - [[https://mcmaster.zoom.us/rec/share/e8wu-WEWrCrSXcWEovydYRnZ8FMwldlijOQG3mtsCl3dHa2Zno9jrgAMm3NbRAxw.U4JqDffeH_9M4g6C][Tuesday October 20th]]
 - [[https://mcmaster.zoom.us/rec/share/vyGLRPX7qeXBQTzifFgdahg96TYob5clg5eFcwy-XLjmPWWexTbpqG-jIIOVLjhG.3JS6dzG_UmlBAOry][Friday October 9th]] lecture, [[https://mcmaster.zoom.us/rec/share/gnkqGq5EAgf02I0rS39OzmsCSC57gtOYhKlFQ53utl12QQQ2YkWoj-nK6pp7zpw8.AXpqZH4L3Nt3cTfe][tutorial]]
 - [[https://mcmaster.zoom.us/rec/share/MP1f5P8W8N2QV5VMV_c2a_E5e5979jjjoa7UN1Y8DwW2posEpfhkQVMeLtHDuEP_.bNlqfBekNj97j_ws][Wednesday October 7th]]
@@ -212,13 +213,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h5.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h6.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h6.html][Homework 6]]
+  - October 21st – October 27th
 - [[./h5.html][Homework 5]]
   - October 9th – October 20th
 - [[./h4.html][Homework 4]]

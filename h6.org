@@ -1,0 +1,58 @@
+#+Title: HWK 6
+#+Subtitle: Due Tuesday October 27th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 6
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Exercises 2, 3 and 4 from page 5-13 of the notes.
+
+- For Exercise 2, what are $f^{0}$ and $f^{1}$?
+- For Exercise 3(b), justify your answer.
+- For Exercise 4, use *simultaneous primitive recursion* to get sequences:
+  - $d_{0}, d_{1}, d_{2}, …$, of decimal digits, and
+  - $r_{0}, r_{1}, r_{2}, …$, of remainders,
+  where $d_{k} = d(n,k)$ and  $r_{k} = r(n,k)$,  $k = 0,1,2,…$.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Exercises 1, 2 and 3 from page 6-9 of the notes.
+
+* Notes
+:PROPERTIES:
+:CUSTOM_ID: Notes
+:END:
+
+** Note 1
+:PROPERTIES:
+:CUSTOM_ID: Note-1
+:END:
+
+I don't want to load you with too much homework before the midterm.
+I am therefore planning to give you the following problems 
+either for Hwk 7 (due Tuesday November 10 - a week after the midterm), 
+or as bonus questions.  You can start thinking about them now.
+
+- Page 6-6, Exercises 2, 3, and 4.
+
+- Prove Theorems 6.12 (a) and (b).
+  In (b), explain why you need the assumption of decidable equality on $S$.
+
+** Note 2
+:PROPERTIES:
+:CUSTOM_ID: Note-2
+:END:
+
+Theorem 6.12 (a), as written, is faulty. It needs an extra assumption, 
+namely that $S$ already has an effective listing 
+(not necessarily a left inverse of $#$).
+Then you must show that $S$ *also* has an effective listing which *is* a 
+left inverse of $#$.
