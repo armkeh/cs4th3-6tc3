@@ -114,6 +114,7 @@ analysis.
 4. [[./4.pdf][Primitive Recursiveness]]
 5. [[./5.pdf][Some Techniques for Defining PR Functions]]
 6. [[./6.pdf][Gödel numberings]]
+7. [[./7.pdf][The Halting PRoblem; The Universal Function Theorem]]
    
 ** Tutorial notes
 :PROPERTIES:
