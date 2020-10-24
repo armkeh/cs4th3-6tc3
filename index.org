@@ -261,6 +261,11 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Midterm-take-home-exam
 :END:
 
+*** Information
+:PROPERTIES:
+:CUSTOM_ID: Information
+:END:
+
 - Date: Friday October 30th, 1:00pm – Monday November 2nd, 6:30pm
 - Coverage: Up to notes section 6 and homework 6.
   - Although notes 6 is included, the only content from it
@@ -270,7 +275,7 @@ They are then uploaded here by Mark.
     - Gödel numbering itself and related concepts,
       such as the definitions of pairs and sequences, will not be covered.
 
-** Review
+*** Review
 :PROPERTIES:
 :CUSTOM_ID: Review
 :END:
