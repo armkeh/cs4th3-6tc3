@@ -14,6 +14,21 @@
 :CUSTOM_ID: October
 :END:
 
+- October 24th ::
+
+  (This information was announced in class, but was not
+  posted to the website yet.)
+
+  The midterm examination will be a take-home test released
+  on Friday, October 30th and due the following Monday by 6pm.
+
+  Some review material and hints as to content will be posted
+  here on the course homepage over the next week,
+  under the new “Tests” section.
+
+  And there will be review for the midterm at least during the
+  tutorial on Friday (October 30th.)
+  
 - October 21st ::
 
   Your classmate, Genevieve Maalouf, is running
@@ -234,6 +249,34 @@ They are then uploaded here by Mark.
 - [[./h1.html][Homework 1]]
   - September 9th – September 15th
 
+* Tests
+:PROPERTIES:
+:CUSTOM_ID: Tests
+:END:
+
+
+
+** Midterm take-home exam
+:PROPERTIES:
+:CUSTOM_ID: Midterm-take-home-exam
+:END:
+
+- Date: Friday October 30th, 1:00pm – Monday November 2nd, 6:30pm
+- Coverage: Up to notes section 6 and homework 6.
+  - Although notes 6 is included, the only content from it
+    which may be tested are the techniques introduced
+    for primitive recursive definitions.
+    - For example, definition by simultaneous primitive recursion. 
+    - Gödel numbering itself and related concepts,
+      such as the definitions of pairs and sequences, will not be covered.
+
+** Review
+:PROPERTIES:
+:CUSTOM_ID: Review
+:END:
+
+:TODO:
+      
 * Bonus questions
 :PROPERTIES:
 :CUSTOM_ID: Bonus-questions
