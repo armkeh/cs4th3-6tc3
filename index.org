@@ -243,7 +243,8 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h6.html" style="width: 100%; height: 75vh"></iframe>@@
+No homework this week (October 28th – November 3rd.)
+# @@html:<iframe src="h6.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
