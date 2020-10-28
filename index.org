@@ -205,11 +205,7 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
-*** Lectures
-:PROPERTIES:
-:CUSTOM_ID: Lectures
-:END:
-
+- [[https://mcmaster.zoom.us/rec/share/kjLv6cjikzKlU4jaZ5d4wba3H4QskuXnugjhyRFWYSSrnq3lEfiW-wyJ1uQ21jeh.hCa-QAJrqgHIOfYb][Wednesday October 28th]]
 - [[https://mcmaster.zoom.us/rec/share/Rbf6q7yFcjc_YPxWjcrc5J-I_97Jo-rbigbiWZOfwOrg90VjHkUXDNmYGzWFg7zG.5-EYllDbZnprKWFk][Tuesday October 27th]]
 - [[https://mcmaster.zoom.us/rec/share/LyIzvlRtOgW0Z9PnijKLunOJEla-NDpYaPMeh_Ix8h-oQcKTPq5jifTrrj-lrA8O.K8MJ8RB5YVs1uWoS][Friday October 23rd]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/502MCgv9O3tQcFnFZKy9jXiyfOGEVLBa1PYjV7X0C85lqLJ6b-yQlpc1PXr3oOTq.opUd-ljsq51mbDJu][Wednesday October 21st]]
