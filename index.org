@@ -14,6 +14,11 @@
 :CUSTOM_ID: October
 :END:
 
+- October 30th ::
+
+  - Recent tutorial notes have been scanned, in the notes section
+    on this site.
+
 - October 28th ::
 
   - Notes section 8 has been posted.
@@ -140,7 +145,7 @@ analysis.
 4. [[./4.pdf][Primitive Recursiveness]]
 5. [[./5.pdf][Some Techniques for Defining PR Functions]]
 6. [[./6.pdf][Gödel numberings]]
-7. [[./7.pdf][The Halting PRoblem; The Universal Function Theorem]]
+7. [[./7.pdf][The Halting Problem; The Universal Function Theorem]]
 8. [[./8.pdf][Semicomputability]]
    
 ** Tutorial notes
@@ -154,6 +159,28 @@ The tutorial notes contain a mix of
 - /solutions/ for previous homeworks.
 The exact coverage for each is listed with the tutorial.
 
+- [[./t7-oct30.pdf][Tutorial 7, October 30th]]
+  - Proofs:
+    - ~n~'th iterated composition is PR.
+    - Membership of finite/co-finite sets is PR.
+    - Gödel numbers of programs/programs for Gödel numbers.
+    - $\textit{PRED}(ℕ)$ is uncountable (midterm review.)
+    - ~perfsq~ and ~sqrt~ are PR (midterm review.)
+- [[./t6-oct23.pdf][Tutorial 6, October 23th]]
+  - Proofs:
+    - Definition by ~n~ cases is PR.
+    - Corollaries 5.9, 5.11, 5.12.
+    - Unbounded minimalisation is /not/ PR.
+    - ~even~, ~max~, ~perfsq~ and ~sqrt~ are PR.
+  - Advice:
+    - ~n~'th iterated composition is PR.
+    - Membership of finite/co-finite sets is PR.
+    - Decimal expansion of ~1/k~ is PR.
+  - Minor midterm advice.
+- [[./t5-oct16.pdf][Tutorial 5, October 16th]]
+  - Proofs:
+    - Lemma 3.6 (and 3.8 implied)
+  - Advice: for proving ~sqrt~ is PR.
 - [[./t4-oct2.pdf][Tutorial 4, October 2nd]]
   - Proofs:
     - Page 1-10 note (f).
