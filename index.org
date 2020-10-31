@@ -14,6 +14,16 @@
 :CUSTOM_ID: October
 :END:
 
+- October 31st ::
+
+  - A “proof repository” section has been added here,
+    which contains an embedding of [[https://armkeh.github.io/cs4th3-6tc3-proofs/][this site]]
+    where Mark posts some proofs from the course.
+
+    Feel free to ask for proofs that are missing
+    from the notes (including the tutorial notes)
+    and Mark may add them there.
+
 - October 30th ::
 
   - Recent tutorial notes have been scanned, in the notes section
@@ -358,3 +368,20 @@ Bonus questions are:
 :END:
 
 @@html:<iframe src="outline.html" style="width: 100%; height: 75vh"></iframe>@@
+
+* Proof repository
+:PROPERTIES:
+:CUSTOM_ID: Proof-repository
+:END:
+
+Mark maintains the below “proof repository” for some of the exercises
+and results of the course.
+
+This is an embedding of
+[[https://armkeh.github.io/cs4th3-6tc3-proofs/][the website for the repository]].
+
+If there is a proof you would like to see that is not there,
+and not present in the lecture or tutorial notes,
+please contact Mark and he will consider adding it here.
+
+@@html:<iframe src="https://armkeh.github.io/cs4th3-6tc3-proofs" style="width: 100%; height: 75vh"></iframe>@@
