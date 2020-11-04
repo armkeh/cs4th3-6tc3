@@ -9,6 +9,15 @@
 :CUSTOM_ID: Announcements
 :END:
 
+** November
+:PROPERTIES:
+:CUSTOM_ID: November
+:END:
+
+- November 3rd ::
+
+  Notes section 9 has been posted.
+
 ** October
 :PROPERTIES:
 :CUSTOM_ID: October
@@ -157,6 +166,7 @@ analysis.
 6. [[./6.pdf][Gödel numberings]]
 7. [[./7.pdf][The Halting Problem; The Universal Function Theorem]]
 8. [[./8.pdf][Semicomputability]]
+9. [[./9.pdf][μ-Primitive Recursive Functions]]
    
 ** Tutorial notes
 :PROPERTIES:
