@@ -14,6 +14,10 @@
 :CUSTOM_ID: November
 :END:
 
+- November 6th ::
+
+  Homework 7 has been posted.
+
 - November 3rd ::
 
   Notes section 9 has been posted.
@@ -286,14 +290,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-No homework this week (October 28th – November 3rd.)
-# @@html:<iframe src="h6.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h7.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h7.html][Homework 7]]
+  - November 4th – November 10th
 - [[./h6.html][Homework 6]]
   - October 21st – October 27th
 - [[./h5.html][Homework 5]]
