@@ -170,7 +170,14 @@ analysis.
 6. [[./6.pdf][Gödel numberings]]
 7. [[./7.pdf][The Halting Problem; The Universal Function Theorem]]
 8. [[./8.pdf][Semicomputability]]
+   - Corrections:
+     - On page 8-4, Cantor's Theorem is referenced as Theorem 1.12(b).
+       It should instead be Theorem 1.13(b).
 9. [[./9.pdf][μ-Primitive Recursive Functions]]
+   - Corrections:
+     - In Theorem 9.3, page 9-3, during the proof of “⇒”,
+       “Proposition 4.2” should instead be “Lemma 4.2”.  
+10. [[./10.pdf][“~loop~” Programs]] 
    
 ** Tutorial notes
 :PROPERTIES:
@@ -256,6 +263,10 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/M3zsMO0a-UvRdV3KNYPTzwAiTZ4IwtTk94-4B-vNqaoLFPHcfp86sQJvh7huP7aq.IQjHTp8ZuyjeZF4j][Friday November 6th]], lecture + tutorial
+- [[https://mcmaster.zoom.us/rec/share/wrYA5e1nt6nv0nGQcxDdtvbi0_09hgoUJPOm0fjinJurjdrc428VhD5cwl8-rPek.fQRVptmnRNHIs5XJ][Wednesday November 4th]]
+- [[https://mcmaster.zoom.us/rec/share/wasg05fHGA81exysLgocqLyLyCdUKWMMrfVso5S1FUrUKVOrq_d84lKh0-VZsWw_.sDG4le190R7j7kJu][Tuesday November 3rd]]
+- [[https://mcmaster.zoom.us/rec/share/dNp6AR3dAxjwlwIJJzNry427_BxshLuOplugGsGNdLOXwUi_KMLhqcKWfcUhM6lZ.QdqH80YwsKjJAGig][Friday October 30th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/kjLv6cjikzKlU4jaZ5d4wba3H4QskuXnugjhyRFWYSSrnq3lEfiW-wyJ1uQ21jeh.hCa-QAJrqgHIOfYb][Wednesday October 28th]]
 - [[https://mcmaster.zoom.us/rec/share/Rbf6q7yFcjc_YPxWjcrc5J-I_97Jo-rbigbiWZOfwOrg90VjHkUXDNmYGzWFg7zG.5-EYllDbZnprKWFk][Tuesday October 27th]]
 - [[https://mcmaster.zoom.us/rec/share/LyIzvlRtOgW0Z9PnijKLunOJEla-NDpYaPMeh_Ix8h-oQcKTPq5jifTrrj-lrA8O.K8MJ8RB5YVs1uWoS][Friday October 23rd]], lecture + tutorial
