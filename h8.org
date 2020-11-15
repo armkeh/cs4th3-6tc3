@@ -1,0 +1,90 @@
+#+Title: HWK 8
+#+Subtitle: Due Tuesday November 17th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 8
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Page 8-7, exercise 2.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Page 8-8, exercises 1 and 3.
+
+* (3)
+:PROPERTIES:
+:CUSTOM_ID: (3)
+:END:
+
+Page 9-4, exercises 1 and 2.
+
+* Hints (in place of tutorial)
+:PROPERTIES:
+:CUSTOM_ID: Hints-(in-place-of-tutorial)
+:END:
+
+Because the tutorial this week took up the midterm,
+there was not time to give hints for the week's homework.
+They are provided here instead.
+
+** (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Note that this exercise is very similar to Theorems 8.9 8.10,
+which was part of last week's homework.
+
+The difference here is that we only require the function
+is /computable/, as opposed to
+- being /total/ as in Theorem 8.9, or
+- being /total and 1-1/ as in Theorem 8.10.
+
+So, given a semicomputable set $B$, with no additional assumptions
+about $B$, you must give an algorithm which outputs
+all elements of $B$ (and this algorithm does not need to be total.)
+
+** (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+- Exercise 1 ::
+  Take note of how we showed that there is no UFT for 𝒢-TCOMP
+  (Corollary 8.13), by the diagonalisation proof in Theorem 8.12(b).
+  If you can construct a similar witness for 𝒢-COMP-PRED,
+  you can prove a similar corollary.
+  
+- Exercise 2 ::
+  From the hint “Otherwise there would be a UFT for 𝒢-TCOMP”,
+  you are being instructed to construct a contradiction;
+  assume that this set is semicomputable,
+  and show that you can construct a UFT for 𝒢-TCOMP using it.
+
+** (3)
+:PROPERTIES:
+:CUSTOM_ID: (3)
+:END:
+
+- Exercise 1 ::
+  Most of the proof should be similar to the proof that
+  $μPR = 𝒢-COMP$. The difference here is that additional
+  “base cases” of the functions in the set $gs$ ($g$ with the overhead $→$.)
+
+- Exercise 2 ::
+  Proofs by CVI on the length of terms rely upon the property we want to prove
+  following relatively easily from that property holding for all shorter terms.
+
+  This implies that terms are constructed in some reasonable way from shorter terms
+  (implying those terms are shorter terms are all “well-formed” or sensible terms
+  on their own.)
+  
+  Is this the case for 𝒢-programs?

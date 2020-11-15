@@ -14,6 +14,12 @@
 :CUSTOM_ID: November
 :END:
 
+- November 15th ::
+  - The latest notes, recordings, and homework 8 are posted.
+  - Homework 8 here includes hints which were not
+    provided in tutorial due to the taking up of the midterm.
+    Please e-mail Mark if you have any other questions.
+    
 - November 6th ::
 
   Homework 7 has been posted.
@@ -177,8 +183,16 @@ analysis.
    - Corrections:
      - In Theorem 9.3, page 9-3, during the proof of “⇒”,
        “Proposition 4.2” should instead be “Lemma 4.2”.  
-10. [[./10.pdf][“~loop~” Programs]] 
-   
+10. [[./10.pdf][“~loop~” Programs]]
+    - Corrections:
+      - On page 10-3, Lemma 10.2, the reference to Theorem 3.4
+        should instead be to Lemma 3.4.
+      - On page 10-8, Corollary 10.7, the reference to (2)
+        refers to the displayed equation (2) on page 10-3.
+      - On page 10-9, line 1, the reference to (1)
+        refers to the displayed equation (1) on page 10-3.
+11. [[./11.pdf][“~while~” Programs]] 
+    
 ** Tutorial notes
 :PROPERTIES:
 :CUSTOM_ID: Tutorial-notes
@@ -263,6 +277,8 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/RLdLkVyUWaWlDTALdznEDsWdIBZbpWUyFNV_emv2CE5QK-8AY1cQv4VTVy_Kms0.9zcGz4BHyrEcpTFi][Wednesday November 11th]]
+- [[https://mcmaster.zoom.us/rec/share/PFT4TIFz4245zUTH9GQ8ZdfBzWKGMeeMvXu1zHR9xWCK6OF28-WtDClH-S1RZSkA.TxZKJ8vYtDM2FTQN][Tuesday November 10th]]
 - [[https://mcmaster.zoom.us/rec/share/M3zsMO0a-UvRdV3KNYPTzwAiTZ4IwtTk94-4B-vNqaoLFPHcfp86sQJvh7huP7aq.IQjHTp8ZuyjeZF4j][Friday November 6th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/wrYA5e1nt6nv0nGQcxDdtvbi0_09hgoUJPOm0fjinJurjdrc428VhD5cwl8-rPek.fQRVptmnRNHIs5XJ][Wednesday November 4th]]
 - [[https://mcmaster.zoom.us/rec/share/wasg05fHGA81exysLgocqLyLyCdUKWMMrfVso5S1FUrUKVOrq_d84lKh0-VZsWw_.sDG4le190R7j7kJu][Tuesday November 3rd]]
@@ -301,13 +317,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h7.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h8.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h8.html][Homework 8]]
+  - November 11th – November 17th
 - [[./h7.html][Homework 7]]
   - November 4th – November 10th
 - [[./h6.html][Homework 6]]
