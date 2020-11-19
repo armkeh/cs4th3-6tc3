@@ -1,0 +1,20 @@
+#+Title: HWK 9
+#+Subtitle: Due Tuesday November 24th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 9
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+Page 8-8, exercises 2(a) and 2(b).
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Page 10-10, Exercises 1, 2, and 4.

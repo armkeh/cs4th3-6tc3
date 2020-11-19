@@ -14,6 +14,9 @@
 :CUSTOM_ID: November
 :END:
 
+- November 19th ::
+  - The latest notes, recordings and homework 9 are now posted.
+
 - November 15th ::
   - The latest notes, recordings, and homework 8 are posted.
   - Homework 8 here includes hints which were not
@@ -192,6 +195,7 @@ analysis.
       - On page 10-9, line 1, the reference to (1)
         refers to the displayed equation (1) on page 10-3.
 11. [[./11.pdf][“~while~” Programs]] 
+12. [[./12.pdf][The Sₘⁿ Theorem]]
     
 ** Tutorial notes
 :PROPERTIES:
@@ -277,6 +281,9 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/U9OVj0rlcEW0NOsbL9q-pnyhvsthxMO9MKGl260j-ZXgbjuwLrbWSjXQHinM7ysM.-jUHbn7aJ8Hgdf0I][Wednesday November 18th]]
+- [[https://web.microsoftstream.com/video/228af1f8-c236-4051-aaa3-c87859db6a2d][Tuesday November 17th]] (uploaded on Microsoft Stream instead of Zoom.)
+- [[https://mcmaster.zoom.us/rec/share/QdpCzBe_m0ZyvRHDvUDPfLATIpLUe9cz4S3qgCjgFhW068u8QoLJ6RH1jqFA-Rhf.Hk1rt4B14evONY4R][Friday November 13th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/RLdLkVyUWaWlDTALdznEDsWdIBZbpWUyFNV_emv2CE5QK-8AY1cQv4VTVy_Kms0.9zcGz4BHyrEcpTFi][Wednesday November 11th]]
 - [[https://mcmaster.zoom.us/rec/share/PFT4TIFz4245zUTH9GQ8ZdfBzWKGMeeMvXu1zHR9xWCK6OF28-WtDClH-S1RZSkA.TxZKJ8vYtDM2FTQN][Tuesday November 10th]]
 - [[https://mcmaster.zoom.us/rec/share/M3zsMO0a-UvRdV3KNYPTzwAiTZ4IwtTk94-4B-vNqaoLFPHcfp86sQJvh7huP7aq.IQjHTp8ZuyjeZF4j][Friday November 6th]], lecture + tutorial
@@ -317,13 +324,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h8.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h9.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h9.html][Homework 9]]
+  - November 18th – November 24th
 - [[./h8.html][Homework 8]]
   - November 11th – November 17th
 - [[./h7.html][Homework 7]]
