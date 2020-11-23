@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-19 Thu 17:55 -->
+<!-- 2020-11-23 Mon 18:07 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>HWK 9</title>
@@ -224,6 +224,28 @@
     /*]]>*///-->
 // @license-end
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
@@ -237,6 +259,23 @@
 <ul>
 <li><a href="#(1)">(1)</a></li>
 <li><a href="#(2)">(2)</a></li>
+<li><a href="#Hints">Hints</a>
+<ul>
+<li><a href="#(1)">(1)</a>
+<ul>
+<li><a href="#(a)">(a)</a></li>
+<li><a href="#(b)">(b)</a></li>
+</ul>
+</li>
+<li><a href="#(2)">(2)</a>
+<ul>
+<li><a href="#Exercise-1">Exercise 1</a></li>
+<li><a href="#Exercise-2">Exercise 2</a></li>
+<li><a href="#Exercise-4">Exercise 4</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -258,13 +297,141 @@ Page 10-10, Exercises 1, 2, and 4.
 </p>
 </div>
 </div>
+
+<div id="outline-container-Hints" class="outline-2">
+<h2 id="Hints">Hints</h2>
+<div class="outline-text-2" id="text-Hints">
+<p>
+As this homework was not discussed in the tutorial,
+some hints are included here (as of November 23rd.)
+</p>
+</div>
+
+<div id="outline-container-(1)" class="outline-3">
+<h3 id="(1)">(1)</h3>
+<div class="outline-text-3" id="text-(1)">
+</div>
+
+<div id="outline-container-(a)" class="outline-4">
+<h4 id="(a)">(a)</h4>
+<div class="outline-text-4" id="text-(a)">
+<p>
+For part (a), recall that a PR-derivation is
+</p>
+<blockquote>
+<p>
+… a sequence of labelled functions symbols of the form
+</p>
+<div class="org-center">
+<div class="org-src-container">
+<pre class="src src-text">f&#8321; &#8592; L&#8321;
+f&#8322; &#8592; L&#8322;
+ &#8942;
+f&#8345; &#8592; L&#8345;
+</pre>
+</div>
+</div>
+<p>
+where each <code>Lᵢ</code> is either
+</p>
+<ul class="org-ul">
+<li>the name of an initial function,</li>
+<li>a list \(f_{j}, f_{k_{1}}, …, f_{k_{ℓ}}\) followed by the note <code>(compos : ℓ, m)</code>,</li>
+<li>a pair \(f_{j}, f_{k}\) with a note <code>(rec : m)</code>, or</li>
+<li>a pair \(c, f_{k}\) (where <code>c</code> is a constant number) with a not <code>(rec : 0)</code>.</li>
+</ul>
+</blockquote>
+<p>
+This is from page 4-2 of the notes, which is a bit more detailed.
+</p>
+
+<p>
+Now since we have a method of enumerating sequences,
+the main task here is enumerating the set of labels (the <code>Lᵢ</code>.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-(b)" class="outline-4">
+<h4 id="(b)">(b)</h4>
+<div class="outline-text-4" id="text-(b)">
+<p>
+For part (b), either sketch a definition of the universal function,
+or present a diagonalisation argument which shows it cannot exist.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-(2)" class="outline-3">
+<h3 id="(2)">(2)</h3>
+<div class="outline-text-3" id="text-(2)">
+</div>
+
+<div id="outline-container-Exercise-1" class="outline-4">
+<h4 id="Exercise-1">Exercise 1</h4>
+<div class="outline-text-4" id="text-Exercise-1">
+<p>
+The difficulty here is that we really only have the
+basic commands to define loop programs: assignment of zero,
+assignment of another variable, increment, skip,
+and the loop.
+</p>
+
+<p>
+Do make sure that you don't make use of predecessor or subtraction
+anywhere in your definition.
+</p>
+
+<p>
+For an actual hint, suppose our input value is <code>X</code>.
+If your program loops <code>X</code> times,
+each time incrementing the output variable <code>Y</code>,
+except not doing so just <i>once</i>, then you will have defined
+the predecessor program.
+</p>
+</div>
+</div>
+
+<div id="outline-container-Exercise-2" class="outline-4">
+<h4 id="Exercise-2">Exercise 2</h4>
+<div class="outline-text-4" id="text-Exercise-2">
+<p>
+Examine what was needed to define the classes <i>PR(gs)</i> and <i>𝒢-COMP(gs)</i>.
+Defining <i>ℒ-COMP(gs)</i> will be similar.
+</p>
+
+<p>
+Then you need to check the proof of <i>ℒ-COMP</i> = <i>PR</i> to see
+what additional cases may be needed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-Exercise-4" class="outline-4">
+<h4 id="Exercise-4">Exercise 4</h4>
+<div class="outline-text-4" id="text-Exercise-4">
+<p>
+We have already shown that this is true for functions.
+</p>
+
+<p>
+Remember that a set is called <i>PR</i> or <i>𝒢-COMP</i> if its
+characteristic predicate is. So this is really asking:
+find a set whose characteristic predicate is 𝒢-computable,
+but not <i>PR</i>.
+</p>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Jeffery Zucker</p>
      <p class="author">Contact: <a href="mailto:markparmstrong@gmail.com">markparmstrong@gmail.com</a></p>
      <p class="date">Original date: </p>
-     <p class="date">Last updated: 2020-11-19 Thu 17:55</p>
-     <p class="creator">Created using <a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.0.90 (<a href="https://orgmode.org">Org</a> mode 9.4)</p>
+     <p class="date">Last updated: 2020-11-23 Mon 18:07</p>
+     <p class="creator">Created using <a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.0.91 (<a href="https://orgmode.org">Org</a> mode 9.4)</p>
      <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

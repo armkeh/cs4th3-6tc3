@@ -18,3 +18,80 @@ Page 8-8, exercises 2(a) and 2(b).
 :END:
 
 Page 10-10, Exercises 1, 2, and 4.
+
+* Hints
+:PROPERTIES:
+:CUSTOM_ID: Hints
+:END:
+
+As this homework was not discussed in the tutorial,
+some hints are included here (as of November 23rd.)
+
+** (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+*** (a)
+
+For part (a), recall that a PR-derivation is
+#+begin_quote
+… a sequence of labelled functions symbols of the form
+#+begin_center
+#+begin_src text
+f₁ ← L₁
+f₂ ← L₂
+ ⋮
+fₙ ← Lₙ
+#+end_src
+#+end_center
+where each ~Lᵢ~ is either
+- the name of an initial function,
+- a list $f_{j}, f_{k_{1}}, …, f_{k_{ℓ}}$ followed by the note ~(compos : ℓ, m)~,
+- a pair $f_{j}, f_{k}$ with a note ~(rec : m)~, or
+- a pair $c, f_{k}$ (where ~c~ is a constant number) with a not ~(rec : 0)~.
+#+end_quote
+This is from page 4-2 of the notes, which is a bit more detailed.
+
+Now since we have a method of enumerating sequences,
+the main task here is enumerating the set of labels (the ~Lᵢ~.)
+
+*** (b)
+
+For part (b), either sketch a definition of the universal function,
+or present a diagonalisation argument which shows it cannot exist.
+
+** (2)
+
+*** Exercise 1
+
+The difficulty here is that we really only have the
+basic commands to define loop programs: assignment of zero,
+assignment of another variable, increment, skip,
+and the loop.
+
+Do make sure that you don't make use of predecessor or subtraction
+anywhere in your definition.
+
+For an actual hint, suppose our input value is ~X~.
+If your program loops ~X~ times,
+each time incrementing the output variable ~Y~,
+except not doing so just /once/, then you will have defined
+the predecessor program.
+
+*** Exercise 2
+
+Examine what was needed to define the classes /PR(gs)/ and /𝒢-COMP(gs)/.
+Defining /ℒ-COMP(gs)/ will be similar.
+
+Then you need to check the proof of /ℒ-COMP/ = /PR/ to see
+what additional cases may be needed.
+
+*** Exercise 4
+
+We have already shown that this is true for functions.
+
+Remember that a set is called /PR/ or /𝒢-COMP/ if its
+characteristic predicate is. So this is really asking:
+find a set whose characteristic predicate is 𝒢-computable,
+but not /PR/.

@@ -14,6 +14,9 @@
 :CUSTOM_ID: November
 :END:
 
+- November 23rd ::
+  - Some hints are posted alongside homework 9.
+
 - November 19th ::
   - The latest notes, recordings and homework 9 are now posted.
 
