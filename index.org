@@ -14,6 +14,15 @@
 :CUSTOM_ID: November
 :END:
 
+- November 25th ::
+
+  - The last sections of notes and recent lecture recordings
+    are now posted.
+
+  - Online course evaluations should now be available at
+    [[https://evals.mcmaster.ca]]. We encourage you to take the time
+    to fill them out; constructive comments are especially encouraged.
+
 - November 23rd ::
   - Some hints are posted alongside homework 9.
 
@@ -199,7 +208,9 @@ analysis.
         refers to the displayed equation (1) on page 10-3.
 11. [[./11.pdf][“~while~” Programs]] 
 12. [[./12.pdf][The Sₘⁿ Theorem]]
-    
+13. [[./13.pdf][The Recursion Theorem]]
+14. [[./14.pdf][Rice's Theorem]]
+
 ** Tutorial notes
 :PROPERTIES:
 :CUSTOM_ID: Tutorial-notes
@@ -284,6 +295,8 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/7lFti1AwL4qdDCHKcAPwOpE2qkBFgnb9FkDkNq1gdCFrpDGlJhr82SZ8juyY-0Fn.vtnkvT6XWu00n-AP][Tuesday November 24th]]
+- [[https://mcmaster.zoom.us/rec/share/ng9_1C1kuLbzpqbLsU0OjWZtezZ0r4rZ9HsYCv2MH02SFB9u3nx_qe4YyVKKP3aP.mzc1gRwJrSV_VWb7][Friday November 20th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/U9OVj0rlcEW0NOsbL9q-pnyhvsthxMO9MKGl260j-ZXgbjuwLrbWSjXQHinM7ysM.-jUHbn7aJ8Hgdf0I][Wednesday November 18th]]
 - [[https://web.microsoftstream.com/video/228af1f8-c236-4051-aaa3-c87859db6a2d][Tuesday November 17th]] (uploaded on Microsoft Stream instead of Zoom.)
 - [[https://mcmaster.zoom.us/rec/share/QdpCzBe_m0ZyvRHDvUDPfLATIpLUe9cz4S3qgCjgFhW068u8QoLJ6RH1jqFA-Rhf.Hk1rt4B14evONY4R][Friday November 13th]], lecture + tutorial
