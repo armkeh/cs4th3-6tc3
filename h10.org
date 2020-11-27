@@ -1,0 +1,36 @@
+#+Title: HWK 10
+#+Subtitle: Due Tuesday December 1st, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 10
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+ Page 11-2, exercises 1 and 2.
+
+* (2) A re-formulation of page 10-10, exercise 4
+:PROPERTIES:
+:CUSTOM_ID: (2)-A-re-formulation-of-page-10-10,-exercise-4
+:END:
+
+Note: In this question, all functions are be *total*.
+
+First we define:
+1. The characteristic function $\textit{char}(A)$ of a subset $A$ of $ℕ$
+   is as defined on page 1-6.
+2. The /positive/ set of a function $f$, called $\textit{pos}(f)$,
+   is defined as $\textit{pos}(f) = \{ x ∈ ℕ | f(x) > 0 \}$.
+3. For subsets $A$ of $ℕ$:
+   1. $A$ is /PR/ iff $\textit{char}(A)$ is /PR/.
+   2. $A$ is 𝒢-computable iff $\textit{char}(A)$ is 𝒢-computable (as in the Notes).
+
+Now, *you must prove*: For subsets $A$ of $ℕ$, 
+1. $A$ is /PR/ iff $A$ is the positive set of a /PR/ function.
+2. $A$ is /𝒢-comp/ iff $A$ is the positive set of a 𝒢-computable function.
+
+Finally, using the above, *also prove that*:
+3. /PR/ is a proper subclass of /𝒢-COMP/.

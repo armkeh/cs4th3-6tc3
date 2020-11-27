@@ -347,13 +347,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h9.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h10.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h10.html][Homework 10]]
+  - November 25th – December 1st
 - [[./h9.html][Homework 9]]
   - November 18th – November 24th
 - [[./h8.html][Homework 8]]
