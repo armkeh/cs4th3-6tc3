@@ -14,6 +14,10 @@
 :CUSTOM_ID: November
 :END:
 
+- November 26th ::
+
+  The missing tutorial notes have been scanned and uploaded.
+
 - November 25th ::
 
   - The last sections of notes and recent lecture recordings
@@ -222,6 +226,9 @@ The tutorial notes contain a mix of
 - /solutions/ for previous homeworks.
 The exact coverage for each is listed with the tutorial.
 
+- [[./t10-nov20.pdf][Tutorial 10, November 20th]]
+- [[./t9-nov13.pdf][Tutorial 9, November 13th]]
+- [[./t8-nov6.pdf][Tutorial 8, November 6th]]
 - [[./t7-oct30.pdf][Tutorial 7, October 30th]]
   - Proofs:
     - ~n~'th iterated composition is PR.
