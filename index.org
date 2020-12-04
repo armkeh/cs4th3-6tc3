@@ -302,6 +302,9 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/7Mq2Ze68Wj606fpM2rCa-eK669AFMQKcbABAeu8dJrdlWhaHWrN5EpWrYxz_kPUF.EclN9nBuxLFVQTc3][Tuesday December 1st]]
+- [[https://mcmaster.zoom.us/rec/share/gg58Qq4gYsNCPTLesS8UKPn7Ukly2sgtW0gOlNce9TpfnJwjjZW0K6jomB-C8aUK.IW1VFEger833z3tl][Friday November 27th]]
+- [[https://mcmaster.zoom.us/rec/share/yswDmifOBByoj0UTdpt_LLYR5b9O8ctyvGPxoL0etebq8FSJOEIXY4vAvSexazIc.4Yjy1i4k838gNyiI][Wednesday November 25th]]
 - [[https://mcmaster.zoom.us/rec/share/7lFti1AwL4qdDCHKcAPwOpE2qkBFgnb9FkDkNq1gdCFrpDGlJhr82SZ8juyY-0Fn.vtnkvT6XWu00n-AP][Tuesday November 24th]]
 - [[https://mcmaster.zoom.us/rec/share/ng9_1C1kuLbzpqbLsU0OjWZtezZ0r4rZ9HsYCv2MH02SFB9u3nx_qe4YyVKKP3aP.mzc1gRwJrSV_VWb7][Friday November 20th]], lecture + tutorial
 - [[https://mcmaster.zoom.us/rec/share/U9OVj0rlcEW0NOsbL9q-pnyhvsthxMO9MKGl260j-ZXgbjuwLrbWSjXQHinM7ysM.-jUHbn7aJ8Hgdf0I][Wednesday November 18th]]
@@ -347,13 +350,15 @@ They are then uploaded here by Mark.
 :CUSTOM_ID: Current
 :END:
 
-@@html:<iframe src="h10.html" style="width: 100%; height: 75vh"></iframe>@@
+@@html:<iframe src="h11.html" style="width: 100%; height: 75vh"></iframe>@@
 
 ** All homeworks
 :PROPERTIES:
 :CUSTOM_ID: Previous
 :END:
 
+- [[./h11.html][Homework 11]]
+  - December 2nd – December 8th
 - [[./h10.html][Homework 10]]
   - November 25th – December 1st
 - [[./h9.html][Homework 9]]

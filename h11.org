@@ -1,0 +1,44 @@
+#+Title: HWK 11
+#+Subtitle: Due Tuesday December 8th, 6p.m.
+#+Author: Jeffery Zucker
+#+Options: num:nil
+#+Description: Homework 11
+#+SETUPFILE: ./org-html-themes/setup/theme-readtheorg-local.setup
+
+* (1)
+:PROPERTIES:
+:CUSTOM_ID: (1)
+:END:
+
+ Page 14-3, exercises 3, 4 and 5.
+
+* (2)
+:PROPERTIES:
+:CUSTOM_ID: (2)
+:END:
+
+Page 13-2: Prove exercise 2 (i.e., for any total computable unary function $f$.)
+
+* Bonus questions
+:PROPERTIES:
+:CUSTOM_ID: Bonus-questions
+:END:
+
+** Bonus question 5
+:PROPERTIES:
+:CUSTOM_ID: Bonus-question-5
+:END:
+
+Can we /strengthen/ Rice's Theorem (Theorem 14.4) to the statement:
+#+begin_quote
+“The only /semi-computable/ index sets are $ℕ$ and $∅$”? 
+#+end_quote
+I.e., are there no semi-computable index sets other than $ℕ$ and $∅$?
+Either prove this or give a counter-example.
+
+** Bonus question 6
+:PROPERTIES:
+:CUSTOM_ID: Bonus-question-6
+:END:
+
+Page 14-3, exercise 2.
