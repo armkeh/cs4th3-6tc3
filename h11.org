@@ -19,6 +19,31 @@
 
 Page 13-2: Prove exercise 2 (i.e., for any total computable unary function $f$.)
 
+* Hints
+
+These brief hints were mentioned during tutorial.
+
+** (1)
+
+For exercise 3, take note of the binary /PR/ function
+from exercise 2, which you may make use of.
+
+For exercises 4 and 5, you should either
+- provide an algorithm to compute the relation/function, or
+- set up a contradiction by assuming they are computable.
+Take note that these questions are part of the section on
+Rice's theorem, which involves the relation ~~~.
+It might be useful to find a contradiction with Rice's theorem here.
+
+** (2)
+
+Take note of the proof for example 1 here.
+
+This question is slightly more general;
+instead of just $φₑ(x) = e$, we want $φₑ(x) = f(e)$.
+So example 1 can be thought of as the special case where $f$ is
+the identity function.
+
 * Bonus questions
 :PROPERTIES:
 :CUSTOM_ID: Bonus-questions

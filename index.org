@@ -9,6 +9,14 @@
 :CUSTOM_ID: Announcements
 :END:
 
+** December
+:PROPERTIES:
+:CUSTOM_ID: December
+:END:
+
+- December 7th ::
+  - Some hints were added to the homework 11.
+
 ** November
 :PROPERTIES:
 :CUSTOM_ID: November
