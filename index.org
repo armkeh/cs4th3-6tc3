@@ -14,6 +14,11 @@
 :CUSTOM_ID: December
 :END:
 
+- December 16th ::
+  - A review session for the exam will be held today
+    from 12:00–14:00, in the Wednesday lecture Zoom meeting.
+    [[https://mcmaster.zoom.us/j/91735616596][Here]] is the link again.
+
 - December 7th ::
   - Some hints were added to the homework 11.
 
