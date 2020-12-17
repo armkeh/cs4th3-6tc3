@@ -14,6 +14,12 @@
 :CUSTOM_ID: December
 :END:
 
+- The review session recording is now available
+  [[https://mcmaster.zoom.us/rec/share/NgtcdsaPsW_BWw_6i5hkYtu_F0qKs7CntmlhXtXSnaNDQlRTQgQUpVF2ri_MIiVp.yOpW3-PvmoaXcBGa][here]].
+- Additionally, two of the sample problems from the review session
+  are now included in  [[https://armkeh.github.io/cs4th3-6tc3-proofs/][Mark's proof repository]],
+  including for the problems which were not solved during the session.
+
 - December 16th ::
   - A review session for the exam will be held today
     from 12:00–14:00, in the Wednesday lecture Zoom meeting.
@@ -315,6 +321,7 @@ to “skip ahead” to the tutorial video.
 - In some cases (when the meeting is actually stopped
   between the lecture and tutorial), two links are provided instead.
 
+- [[https://mcmaster.zoom.us/rec/share/NgtcdsaPsW_BWw_6i5hkYtu_F0qKs7CntmlhXtXSnaNDQlRTQgQUpVF2ri_MIiVp.yOpW3-PvmoaXcBGa][Wednesday, December 16th (exam review session)]]
 - [[https://mcmaster.zoom.us/rec/share/nlMq5LBz2O8ZJiaQ1XjU5vx78z8kc4Tuk1aQceWT6v8bRy4abOyxXjZB976BXFhg.oqSv-RpZEzTs1nhc][Wednesday December 9th]]
 - [[https://mcmaster.zoom.us/rec/share/KHpgnsNsmS_PjPw3mIfuK5uZc90LFW8EbEbV6qMqz74c_JGN0GvpY1vbqTix9HuE.ybN0wsoNVteE885v][Tuesday December 8th]]
 - [[https://mcmaster.zoom.us/rec/share/0HFDoZ3vHzcnxx48DJZmUgd-OA8dbdEsAi-FWq8lxl0ygQ5FNrjP4HTtLDG7-0J3.QtySIGKq1dr4W-V4][Friday December 4th]]
